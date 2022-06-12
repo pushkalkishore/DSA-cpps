@@ -10,7 +10,7 @@ using namespace std;
 
 int32_t main()
 {
-	int t;
+	int t;int a;
 	cin>>t;
 	while(t--)
 	{
