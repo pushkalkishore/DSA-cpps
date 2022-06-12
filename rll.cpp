@@ -6,7 +6,7 @@ using namespace std;
 class node
 {
 public:
-    int data;int c;
+    int data;int c;int a;
     node *next;
 
     node(int val)
