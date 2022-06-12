@@ -1,2 +1,0 @@
-reversell(head);
-    print(head);
